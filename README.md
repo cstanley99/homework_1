@@ -28,7 +28,7 @@ Chime generates it's revenue by charging interchange fees whenever their debit c
 7. [Businessofapps](https://www.businessofapps.com/data/chime-statistics/)
 8. [Timesnext](https://timesnext.com/chime-startup/)
 9. [StackShare](https://stackshare.io/chime/chime)
-  
+10. [Intellimize](https://www.intellimize.com/)  
 
 
 
