@@ -1,7 +1,6 @@
 # Chime Financial Inc.
-![chime image](https://user-images.githubusercontent.com/107821174/178118520-6efcec99-1e41-4e11-bf23-4417517d92f3.png)
+
 ![Chime logo](https://user-images.githubusercontent.com/107821174/178130731-738b23fa-4c31-4c0f-89b5-507616a91feb.png)
-![Chime logo2](https://user-images.githubusercontent.com/107821174/178154106-e2556cb8-8b0d-4ea2-a1a7-f5bf8657b0c9.png)
 
 ____________
 
