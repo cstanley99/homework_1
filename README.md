@@ -1,6 +1,7 @@
 # Chime Financial Inc.
 ![chime image](https://user-images.githubusercontent.com/107821174/178118520-6efcec99-1e41-4e11-bf23-4417517d92f3.png)
 ![Chime logo](https://user-images.githubusercontent.com/107821174/178130731-738b23fa-4c31-4c0f-89b5-507616a91feb.png)
+![Chime logo2](https://user-images.githubusercontent.com/107821174/178154106-e2556cb8-8b0d-4ea2-a1a7-f5bf8657b0c9.png)
 
 ____________
 
@@ -12,7 +13,8 @@ Chime Financial targets a younger demographic who desire simple banking features
 Chime has incorpoarted the use of artificial intelegence in its marketing strategy.  According to Guy Yalif, CEO of Intellimize, Chime is using AI to create a sophisticated testing approach to determine which marketing tactics to deploy. According to Yalif: “Chime’s marketing team was able to test 21 different ideas and 216 different versions of their homepage while improving its performance. Had they used a simpler A/B model to test out these 21 ideas, it would have taken nine years to do what they did in three months.”
 [Here is a link to the technologies Chime is using from StackShare](https://stackshare.io/chime/chime/main)
   
-Chime generates it's revenue by charging interchange fees whenever their debit card is used.  Interchange fees are fees merchants pay to financial institutions (usually around 1.5%); they earn a portion of this fee for every transaction.  Going forward the company the company should consider offering checking accounts with interest (as some of their competitors do) and launch a traditional credit card.  Presently their Credit Bulider Visa credit card is a no annual fee, no interest, secured credit card (prepaid) that helps you build your credit.  For higher earning customers they could offer a traditional credit card to increase revenues.  With a broadening customer demographic and an impending IPO, Chime continues to be a growth story.<p>
+Chime generates it's revenue by charging interchange fees whenever their debit card is used.  Interchange fees are fees merchants pay to financial institutions (usually around 1.5%); they earn a portion of this fee for every transaction.  Going forward the company the company should consider offering checking accounts with interest (as some of their competitors do) and launch a traditional credit card.  Presently their Credit Bulider Visa credit card is a no annual fee, no interest, secured credit card (prepaid) that helps you build your credit.  For higher earning customers they could offer a traditional credit card to increase revenues.  With a broadening customer demographic and an impending IPO, Chime continues to be a growth story. 
+
 ----------
 
 ## References
