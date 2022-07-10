@@ -13,7 +13,20 @@ Chime has incorpoarted the use of artificial intelegence in its marketing strate
 [Here is a link to the technologies Chime is using from StackShare](https://stackshare.io/chime/chime/main)
   
 Chime generates it's revenue by charging interchange fees whenever their debit card is used.  Interchange fees are fees merchants pay to financial institutions (usually around 1.5%); they earn a portion of this fee for every transaction.  Going forward the company the company should consider offering checking accounts with interest (as some of their competitors do) and launch a traditional credit card.  Presently their Credit Bulider Visa credit card is a no annual fee, no interest, secured credit card (prepaid) that helps you build your credit.  For higher earning customers they could offer a traditional credit card to increase revenues.  With a broadening customer demographic and an impending IPO, Chime continues to be a growth story.<p>
+----------
 
+## References
+  
+1. [Chime website](https://www.chime.com/)
+2. [Cnbc](https://www.cnbc.com/2021/08/13/chime-earns-big-valuation-jump-in-latest-financing-nears-ipo.html)
+3. [Forbes](https://www.forbes.com/sites/jeffkauflin/2021/10/23/chime-in-talks-to-go-public-at-35-to-45-billion-valuation/?sh=5499580c32ff)
+4. [Wiki](https://en.wikipedia.org/wiki/Chime_(company))
+5. [Crunchbase](https://www.crunchbase.com/organization/chime-2/company_financials)
+6. [Investopedia](https://www.investopedia.com/chime-bank-review-4846500)
+7. [Businessofapps](https://www.businessofapps.com/data/chime-statistics/)
+8. [Timesnext](https://timesnext.com/chime-startup/)
+9. [StackShare](https://stackshare.io/chime/chime)
+  
 
 
 
