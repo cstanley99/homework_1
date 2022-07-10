@@ -12,5 +12,7 @@ Chime has incorpoarted the use of artificial intelegence in its marketing strate
   
 Chime generates it's revenue by charging interchange fees whenever their debit card is used.  Interchange fees are fees merchants pay to financial institutions (usually around 1.5%); they earn a portion of this fee for every transaction.
 
+![Chime logo](https://user-images.githubusercontent.com/107821174/178130731-738b23fa-4c31-4c0f-89b5-507616a91feb.png)
+
 
   
